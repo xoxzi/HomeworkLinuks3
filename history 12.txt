@@ -1,0 +1,19 @@
+   0 pwd
+   1 touch myfirstscript.sh
+   2 chmod 744 myfirstscript.sh
+   3 USER=zari
+   4 echo §USER
+   5 echo $USER
+   6 ls
+   7 nano
+   8 ./myfirstbashscript.sh
+   9 ./nn
+  10 bash myfirstbashscript.sh
+  11 bash nn
+  12 nano nn
+  13 ps -ef | wa -1
+  14 ls
+  15 ps -ef | wc -1
+  16 nano nn
+  17 bash nn
+  18 history>history.txt
